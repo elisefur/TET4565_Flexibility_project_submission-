@@ -1,3 +1,12 @@
+"""
+Parameter settings used for the results in the report:
+
+Task 1-4:  N_EWH = 1,   t_act = 780,  S_act = 0
+Task 5:  N_EWH = 1,   t_act = 350,  S_act = 1
+Task 6: N_EWH = 100, t_act = 350 / 600 / 1050, S_act = 0
+
+"""
+
 # -*- coding: utf-8 -*-
 # ---
 # jupyter:
